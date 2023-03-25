@@ -9,4 +9,4 @@
 * TADS 2° ano
 
 ## Links Atividades
-* [Atv Teste](https://github.com/SNunesA/P.O.O/blob/main/notebooks/AtvTeste.ipynb)
+* [Atv Teste](https://github.com/SNunesA/P.O.O/blob/main/AtvTeste/notebooks/AtvTeste.ipynb)
