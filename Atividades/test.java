@@ -1,17 +1,16 @@
 package Atividades;
 import java.util.Scanner;
+import javax.swing.JOptionPane;
 public class test {
     public static void main(String args []){
         Scanner in = new Scanner(System.in);
-        int a,b,c;
-    
-        System.out.print("Informe um inteiro:");
-        b=in.nextInt();
-        System.out.print("Informe um inteiro:");
-        c=in.nextInt();
-        a=b*c;
-        System.out.println("Foi realizado o produto dos numeros digitados e o resultado é:"+a);
-        System.out.println("Este é um programa de exemplo de folha de pagamento.");
 
+        float av1,av2,trab,media;
+        av1=Float.parseFloat(JOptionPane.showInputDialog("Digite a nota da 1° prova:"));
+        av2=Float.parseFloat(JOptionPane.showInputDialog("Digite a nota da 2° prova:"));
+        trab=Float.parseFloat(JOptionPane.showInputDialog("Digite a nota do trabalho:"));
+        
+        media=(av1+av2+trab)/3;
+        JOptionPane.showMessageDialog(null, String.format("Sua média:%.2f", media));
     }
 }
