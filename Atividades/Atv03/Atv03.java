@@ -1,11 +1,4 @@
-# Atv 03
-Para realizar esta atividade, importei o JOptionPane;
-
-Criei as variaveis avaliação 1 e 2, trabalho e media;
-
-Converti o input para float e realizei o calculo da média, após isso apresentei em um showMessageDialog com uma string.format para limitar 2 casas decimais após a vírgula.
-
-~~~java
+package Atividades.Atv03;
 import javax.swing.JOptionPane;
 public class Atv03 {
     public static void main(String args []){
@@ -18,4 +11,3 @@ public class Atv03 {
         JOptionPane.showMessageDialog(null, String.format("Sua média:%.2f", media));
     }
 }
-~~~
