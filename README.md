@@ -16,4 +16,10 @@
 * [Atv 04](https://github.com/SNunesA/P.O.O/blob/main/Atividades/Atv04/notebook/Atv04.ipynb)
 * [Atv 05](https://github.com/SNunesA/P.O.O/blob/main/Atividades/Atv05/notebook/Atv05.ipynb)
 * [Atv 06](https://github.com/SNunesA/P.O.O/blob/main/Atividades/Atv06/notebook/Atv06.ipynb)
+* [Atv 07]()
+* [Atv 08](https://github.com/SNunesA/P.O.O/tree/main/Atividades/Atv08)
+* [Atv 09](https://github.com/SNunesA/P.O.O/tree/main/Atividades/Atv09)
+* [Atv 10]()
+* [Atv 11]()
+* [Atv 12]()
 
